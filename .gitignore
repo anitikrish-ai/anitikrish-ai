@@ -1,0 +1,9 @@
+# Source photo and intermediates stay local; only the generated SVGs are published.
+assets/source/
+assets/generated/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.tmp

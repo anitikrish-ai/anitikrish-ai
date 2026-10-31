@@ -1,0 +1,21 @@
+{
+  "username": "anitikrish-ai",
+  "host": "github",
+  "blocks": [
+    {"type": "kv", "key": "role", "value": "Computer Engineering Diploma student"},
+    {"type": "kv", "key": "level", "value": "Beginner developer"},
+    {"type": "kv", "key": "focus", "value": "Web development, vibe coding"},
+    {"type": "kv", "key": "languages", "value": "HTML, CSS, Java, Python, other programming basics"},
+    {"type": "kv", "key": "repo stack", "value": "TypeScript, React, Next.js, Vite, Tailwind CSS, Supabase, Flask"},
+    {"type": "kv", "key": "interests", "value": "Anime, sketching, digital art"},
+    {"type": "gap"},
+    {"type": "heading", "text": "public repos"},
+    {"type": "item", "name": "ikis-paint-web", "value": "Browser drawing app inspired by ibis Paint"},
+    {"type": "item", "name": "GlassAnime", "value": "Responsive anime viewing web app (TypeScript)"},
+    {"type": "item", "name": "Video-Downloader-", "value": "YouTube video and audio downloader (Flask, yt-dlp)"},
+    {"type": "item", "name": "AppHub", "value": "Desktop and developer software store (Next.js, Supabase)"},
+    {"type": "item", "name": "Smexstore", "value": "Gaming tournament and game ID marketplace front end (React, TypeScript, Vite)"},
+    {"type": "item", "name": "drift-doc", "value": "Docs site for DriftJS, a bytecode-VM UI framework"},
+    {"type": "item", "name": "dropfast", "value": "TypeScript project"}
+  ]
+}

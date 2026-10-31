@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 994" width="560" height="994" role="img" aria-labelledby="t d">
+<title id="t">Developer card for anitikrish-ai</title>
+<desc id="d">Terminal-style card listing role, focus, languages, interests and public repositories.</desc>
+<style>
+.bg{fill:#0d1117;stroke:#30363d}
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}
+.usr,.key{fill:#7ee787}
+.usr,.hd{font-weight:700}
+.nm,.hd{fill:#e6edf3}
+.val{fill:#c9d1d9}
+.dim{fill:#6e7681}
+.ln{animation:in .5s ease-out both}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:translateX(0)}}
+@media (prefers-reduced-motion:reduce){.ln{animation:none}}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="559" height="993" rx="10"/>
+<text class="ln" x="24" y="39.0" style="animation-delay:0.20s"><tspan class="usr">anitikrish-ai</tspan><tspan class="dim">@</tspan><tspan class="usr">github</tspan></text>
+<text class="ln" x="24" y="59.0" style="animation-delay:0.27s"><tspan class="dim">--------------------</tspan></text>
+<text class="ln" x="24" y="79.0" style="animation-delay:0.34s"><tspan class="key">role</tspan><tspan class="val" x="144">Computer Engineering Diploma student</tspan></text>
+<text class="ln" x="24" y="99.0" style="animation-delay:0.41s"><tspan class="key">level</tspan><tspan class="val" x="144">Beginner developer</tspan></text>
+<text class="ln" x="24" y="119.0" style="animation-delay:0.48s"><tspan class="key">focus</tspan><tspan class="val" x="144">Web development, vibe coding</tspan></text>
+<text class="ln" x="24" y="139.0" style="animation-delay:0.55s"><tspan class="key">languages</tspan><tspan class="val" x="144">HTML, CSS, Java, Python, other programming</tspan></text>
+<text class="ln" x="24" y="159.0" style="animation-delay:0.62s"><tspan class="val" x="144">basics</tspan></text>
+<text class="ln" x="24" y="179.0" style="animation-delay:0.69s"><tspan class="key">repo stack</tspan><tspan class="val" x="144">TypeScript, React, Next.js, Vite, Tailwind CSS,</tspan></text>
+<text class="ln" x="24" y="199.0" style="animation-delay:0.76s"><tspan class="val" x="144">Supabase, Flask</tspan></text>
+<text class="ln" x="24" y="219.0" style="animation-delay:0.83s"><tspan class="key">interests</tspan><tspan class="val" x="144">Anime, sketching, digital art</tspan></text>
+<text class="ln" x="24" y="259.0" style="animation-delay:0.90s"><tspan class="hd">public repos</tspan></text>
+<text class="ln" x="24" y="279.0" style="animation-delay:0.97s"><tspan class="nm">ikis-paint-web</tspan><tspan class="val" x="144">Browser drawing app inspired by ibis Paint</tspan></text>
+<text class="ln" x="24" y="299.0" style="animation-delay:1.04s"><tspan class="nm">GlassAnime</tspan><tspan class="val" x="144">Responsive anime viewing web app (TypeScript)</tspan></text>
+<text class="ln" x="24" y="319.0" style="animation-delay:1.11s"><tspan class="nm">Video-Downloader-</tspan><tspan class="val" x="144">YouTube video and audio downloader (Flask, yt-</tspan></text>
+<text class="ln" x="24" y="339.0" style="animation-delay:1.18s"><tspan class="val" x="144">dlp)</tspan></text>
+<text class="ln" x="24" y="359.0" style="animation-delay:1.25s"><tspan class="nm">AppHub</tspan><tspan class="val" x="144">Desktop and developer software store (Next.js,</tspan></text>
+<text class="ln" x="24" y="379.0" style="animation-delay:1.32s"><tspan class="val" x="144">Supabase)</tspan></text>
+<text class="ln" x="24" y="399.0" style="animation-delay:1.39s"><tspan class="nm">Smexstore</tspan><tspan class="val" x="144">Gaming tournament and game ID marketplace front</tspan></text>
+<text class="ln" x="24" y="419.0" style="animation-delay:1.46s"><tspan class="val" x="144">end (React, TypeScript, Vite)</tspan></text>
+<text class="ln" x="24" y="439.0" style="animation-delay:1.53s"><tspan class="nm">drift-doc</tspan><tspan class="val" x="144">Docs site for DriftJS, a bytecode-VM UI</tspan></text>
+<text class="ln" x="24" y="459.0" style="animation-delay:1.60s"><tspan class="val" x="144">framework</tspan></text>
+<text class="ln" x="24" y="479.0" style="animation-delay:1.67s"><tspan class="nm">dropfast</tspan><tspan class="val" x="144">TypeScript project</tspan></text>
+</svg>

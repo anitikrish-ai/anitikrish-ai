@@ -1,0 +1,20 @@
+# One-time, LOCAL portrait processing only (prep_photo.py, make_ascii_svg.py,
+# make_info_card.py). The daily GitHub Actions workflow does NOT install these:
+# fetch_contributions.py and render_heatmap_svg.py use the Python standard
+# library only.
+#
+# Install locally (in a virtualenv), e.g.:
+#   python -m venv .venv && source .venv/bin/activate
+#   pip install -r scripts/requirements.txt
+#
+# Versions are pinned; if a pin is unavailable for your Python version,
+# bump it to the nearest release that supports it.
+Pillow==11.3.0
+numpy==2.2.6
+
+# OPTIONAL: neural background removal (large download: onnxruntime + model).
+# Only needed if you run prep_photo.py with --bg rembg. The default "auto"
+# mode uses a dependency-free flood fill, which is enough for artwork on a
+# plain background. Uncomment to enable:
+# rembg==2.0.67
+# onnxruntime==1.22.0

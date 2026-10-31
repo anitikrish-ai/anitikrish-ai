@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 524 994" width="524" height="994" role="img" aria-labelledby="t d">
+<title id="t">ASCII portrait</title>
+<desc id="d">Monochrome ASCII-art portrait generated from the profile owner's own image.</desc>
+<style>
+.bg{fill:#0d1117;stroke:#30363d}
+.r{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:8.4px;fill:#c9d1d9;animation:show .01s steps(1,end) both}
+.k{fill:#7ee787}
+@keyframes show{from{opacity:0}to{opacity:1}}
+@keyframes cur{0%{opacity:0}1%{opacity:1}99%{opacity:1}100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.r,.k{animation:none}}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="523" height="993" rx="10"/>
+<text class="r" x="140.96" y="55.40" textLength="70.56" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.363s">::::--::... ::</text>
+<rect class="k" x="212.52" y="48.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.363s both"/>
+<text class="r" x="130.88" y="64.40" textLength="80.64" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.401s">:-:::--:.  ..  :</text>
+<rect class="k" x="212.52" y="57.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.401s both"/>
+<text class="r" x="120.80" y="73.40" textLength="120.96" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.439s">:=-:::..  .      : ....:</text>
+<rect class="k" x="242.76" y="66.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.439s both"/>
+<text class="r" x="105.68" y="82.40" textLength="141.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.476s">::::..   .           .     :</text>
+<rect class="k" x="247.80" y="75.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.476s both"/>
+<text class="r" x="100.64" y="91.40" textLength="151.20" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.514s">:......   .    .      .      :</text>
+<rect class="k" x="252.84" y="84.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.514s both"/>
+<text class="r" x="95.60" y="100.40" textLength="166.32" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.552s">::...:..  . ..   :.   .:.      ..</text>
+<rect class="k" x="262.92" y="93.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.552s both"/>
+<text class="r" x="75.44" y="109.40" textLength="216.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.590s">::::.:..-..:  .. -    -. ..-.         ....:</text>
+<rect class="k" x="293.16" y="102.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.590s both"/>
+<text class="r" x="65.36" y="118.40" textLength="231.84" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.627s">:::...::.-::: . .. -:    : :-: ::     .:  :-::</text>
+<rect class="k" x="298.20" y="111.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.627s both"/>
+<text class="r" x="60.32" y="127.40" textLength="236.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.665s">-:..:..:.:-:-  :... -: . .. :-:. =:     .:  .-:</text>
+<rect class="k" x="298.20" y="120.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.665s both"/>
+<text class="r" x="55.28" y="136.40" textLength="236.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.703s">-::::...::.--. .:-..::. : :  ----:-.  . ..=-. .</text>
+<rect class="k" x="293.16" y="129.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.703s both"/>
+<text class="r" x="60.32" y="145.40" textLength="241.92" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.741s">-.:.. :.--:-. ..-:.:: :..: -+---=-. -- :-====-==</text>
+<rect class="k" x="303.24" y="138.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.741s both"/>
+<text class="r" x="60.32" y="154.40" textLength="226.80" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.778s">::.. .:.:==--. :--.:.::.:  =+=-.-=  =::-----=</text>
+<rect class="k" x="288.12" y="147.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.778s both"/>
+<text class="r" x="60.32" y="163.40" textLength="221.76" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.816s">:.:: ...:--==-..---.:-:-: .+++=.-=..-==-=--=</text>
+<rect class="k" x="283.08" y="156.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.816s both"/>
+<text class="r" x="55.28" y="172.40" textLength="236.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.854s">-..-. ..::=-:==-----:-:---.:=+=---=-.==---===--</text>
+<rect class="k" x="293.16" y="165.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.854s both"/>
+<text class="r" x="50.24" y="181.40" textLength="287.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.892s">-:.:-. ..-:-=---==---------:-:=++---=------==-=+=+++++++=</text>
+<rect class="k" x="338.52" y="174.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.892s both"/>
+<text class="r" x="50.24" y="190.40" textLength="292.32" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.929s">-.::-. ..::-=--+#+==-----=--::-*=---==-=+++*+++****+++++++</text>
+<rect class="k" x="343.56" y="183.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.929s both"/>
+<text class="r" x="40.16" y="199.40" textLength="317.52" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.967s">:.-:.:-: .:..:==+#====-==--==--:-+=====+++++++++=+++++++++++*+-</text>
+<rect class="k" x="358.68" y="192.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 0.967s both"/>
+<text class="r" x="45.20" y="208.40" textLength="322.56" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.005s">..::.::: :==-==+++=====-=-------====+++++++++++=++=++++++++++**+</text>
+<rect class="k" x="368.76" y="201.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.005s both"/>
+<text class="r" x="55.28" y="217.40" textLength="327.60" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.042s">--::-:..-+===-----=-------:::====*======+++=======+++==+++++++**=</text>
+<rect class="k" x="383.88" y="210.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.042s both"/>
+<text class="r" x="55.28" y="226.40" textLength="337.68" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.080s">-:::-::.:-+++-::----=+-:::::-===*+======+=========+++==+++++++++**+</text>
+<rect class="k" x="393.96" y="219.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.080s both"/>
+<text class="r" x="50.24" y="235.40" textLength="352.80" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.118s">-:::::::::::-=-::--=-++:-:::-==-**+++===++=+========+====+++++++++++*+</text>
+<rect class="k" x="404.04" y="228.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.118s both"/>
+<text class="r" x="50.24" y="244.40" textLength="362.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.156s">-::::::::::::-=-=-===#=----:==+=**+++++++++++++=+===+==+==++++++++++++*=</text>
+<rect class="k" x="414.12" y="237.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.156s both"/>
+<text class="r" x="50.24" y="253.40" textLength="367.92" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.193s">-.:: -::::::::---=*-++------=+= #*+++++++++++++=+======+==+++++++++++++**</text>
+<rect class="k" x="419.16" y="246.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.193s both"/>
+<text class="r" x="50.24" y="262.40" textLength="372.96" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.231s">-:-   -:::::::::::::-+-----=+   +#+++*+++++++++++======+*++++++*+++++++++*</text>
+<rect class="k" x="424.20" y="255.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.231s both"/>
+<text class="r" x="55.28" y="271.40" textLength="372.96" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.269s">--   -:::::::::::::--===-==     #*+++++++++++++++=====+#*****+*++++++++++*</text>
+<rect class="k" x="429.24" y="264.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.269s both"/>
+<text class="r" x="60.32" y="280.40" textLength="372.96" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.307s">:: :--:::::::::: :-:--:--       #+*++++++++++*++====+=#*#******++++++++++*</text>
+<rect class="k" x="434.28" y="273.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.307s both"/>
+<text class="r" x="70.40" y="289.40" textLength="367.92" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.344s">:: -::---:-:   ----:          +#*+++++++++***+++==+=*###*****+++++++++++*</text>
+<rect class="k" x="439.32" y="282.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.344s both"/>
+<text class="r" x="80.48" y="298.40" textLength="362.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.382s">--:--       --               #***+**++++***++++=+=+##%****#++++++++++++*</text>
+<rect class="k" x="444.36" y="291.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.382s both"/>
+<text class="r" x="85.52" y="307.40" textLength="362.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.420s">--:-::             :-        #*****++++***++++++==#%%**###*+++++++++++*=</text>
+<rect class="k" x="449.40" y="300.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.420s both"/>
+<text class="r" x="176.24" y="316.40" textLength="272.16" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.458s">+---       =#*#**++++****+++++===%@**##**++**++++++++*</text>
+<rect class="k" x="449.40" y="309.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.458s both"/>
+<text class="r" x="176.24" y="325.40" textLength="277.20" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.495s">+=:=        +#**#*++*****++++++===%**##***+**++++++++++</text>
+<rect class="k" x="454.44" y="318.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.495s both"/>
+<text class="r" x="176.24" y="334.40" textLength="277.20" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.533s">-*=+         =##***+******++*++===*#*###******+++***++*</text>
+<rect class="k" x="454.44" y="327.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.533s both"/>
+<text class="r" x="90.56" y="343.40" textLength="367.92" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.571s">+--=------:    -=**+=+          *#*********+*+=+====##*##******++****++++</text>
+<rect class="k" x="459.48" y="336.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.571s both"/>
+<text class="r" x="95.60" y="352.40" textLength="362.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.608s">:--:::-=++++++***+=+==-         *%#*#****++++++==+=+####******++******+*</text>
+<rect class="k" x="459.48" y="345.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.608s both"/>
+<text class="r" x="140.96" y="361.40" textLength="322.56" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.646s">-+==++**++++-+         -@@*#**#*++++++==+=++%*#****#*+***#**+++=</text>
+<rect class="k" x="464.52" y="354.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.646s both"/>
+<text class="r" x="120.80" y="370.40" textLength="342.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.684s">:---===++***++++==+         %@##**#*+*++++=====+*#*##**#*+*###***++*</text>
+<rect class="k" x="464.52" y="363.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.684s both"/>
+<text class="r" x="105.68" y="379.40" textLength="362.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.722s">:---=++==+++*+++++++++=**      %@@#**#*+*++==+=====+#####*#**####***++*=</text>
+<rect class="k" x="469.56" y="372.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.722s both"/>
+<text class="r" x="90.56" y="388.40" textLength="378.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.759s">:::::----  +=++++++++++++++*%%####@@@@**#+++++========++%#####*##%##***++*+</text>
+<rect class="k" x="469.56" y="381.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.759s both"/>
+<text class="r" x="85.52" y="397.40" textLength="383.04" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.797s">=:::-      =+++++++++++++++++%%%##*%@@@#*#+***+=========+#@#####%%%##*****+*</text>
+<rect class="k" x="469.56" y="390.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.797s both"/>
+<text class="r" x="130.88" y="406.40" textLength="337.68" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.835s">==+++++++++++++++++*%%%%%#%@@@@%#+*#*==========+*@%#%%#%%%##*****+#</text>
+<rect class="k" x="469.56" y="399.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.835s both"/>
+<text class="r" x="115.76" y="415.40" textLength="357.84" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.873s">=--===++++==++++++====%%%%%%%%@@@@@*+##==+=========+#@%%%%%%###*****+#=</text>
+<rect class="k" x="474.60" y="408.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.873s both"/>
+<text class="r" x="110.72" y="424.40" textLength="362.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.910s">--:--  ++++====++++==--%%%%%%%%@@@@@%*#+=**+=========*%@%%%%%###*****##*</text>
+<rect class="k" x="474.60" y="417.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.910s both"/>
+<text class="r" x="100.64" y="433.40" textLength="372.96" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.948s">---=-    +=+       =-=###%%%%%%#%@@@@@%#++**+*++======++#@%%%%######***#*#</text>
+<rect class="k" x="474.60" y="426.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.948s both"/>
+<text class="r" x="100.64" y="442.40" textLength="378.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.986s">-::     +:+          #@@@@%%%%%%@@@@@@#**#****++++====++#@%%%%######**##*#-</text>
+<rect class="k" x="479.64" y="435.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 1.986s both"/>
+<text class="r" x="135.92" y="451.40" textLength="342.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.024s">=:=           +#@@%***####%@@@@%##**++++*+++===*+%@%%#%#####*+###*#+</text>
+<rect class="k" x="479.64" y="444.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.024s both"/>
+<text class="r" x="130.88" y="460.40" textLength="347.76" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.061s">---                        %@@@@%%#*+=+*#*+++==++#@%%%%%####*+###****</text>
+<rect class="k" x="479.64" y="453.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.061s both"/>
+<text class="r" x="261.92" y="469.40" textLength="216.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.099s">=@@@@@%#+==*##++*+++++#@%%%%%%##%*+*%*##**#</text>
+<rect class="k" x="479.64" y="462.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.099s both"/>
+<text class="r" x="266.96" y="478.40" textLength="216.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.137s">@@@@@%++#%%#+*#+++++*@%%%##%%%%*+*#*##***#+</text>
+<rect class="k" x="484.68" y="471.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.137s both"/>
+<text class="r" x="266.96" y="487.40" textLength="216.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.175s">#@@@@#%@%%#+*#****++@%%%##%%%%#++**#%#*****</text>
+<rect class="k" x="484.68" y="480.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.175s both"/>
+<text class="r" x="266.96" y="496.40" textLength="216.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.212s">+@@@%%%######*##**+%@##*#%%%%#*++*#%###***#</text>
+<rect class="k" x="484.68" y="489.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.212s both"/>
+<text class="r" x="266.96" y="505.40" textLength="216.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.250s">=@@%#%######*##***#@#*#%%%%%#++*##%%###***%</text>
+<rect class="k" x="484.68" y="498.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.250s both"/>
+<text class="r" x="266.96" y="514.40" textLength="216.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.288s">=@%#%%##########*#@@#%%%%%%#+*#%%%%####**%%</text>
+<rect class="k" x="484.68" y="507.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.288s both"/>
+<text class="r" x="261.92" y="523.40" textLength="221.76" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.325s">=%@%%%############@@%%%%%%%#**%%%%@%###**#@+</text>
+<rect class="k" x="484.68" y="516.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.325s both"/>
+<text class="r" x="256.88" y="532.40" textLength="226.80" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.363s">+@@%%%############@@@%%%%%%###%%%%%%%%##*#@@-</text>
+<rect class="k" x="484.68" y="525.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.363s both"/>
+<text class="r" x="256.88" y="541.40" textLength="221.76" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.401s">+@%%%############%@@@@%%####%%%%%%@%%%##*%@@</text>
+<rect class="k" x="479.64" y="534.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.401s both"/>
+<text class="r" x="261.92" y="550.40" textLength="216.72" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.439s">%%%############%@@@@%%##%%%%##@%%%%%%#*#@@@</text>
+<rect class="k" x="479.64" y="543.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.439s both"/>
+<text class="r" x="256.88" y="559.40" textLength="221.76" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.476s">=%#############%@@@@%%%%%%%#**@@@@@@%###%%%%</text>
+<rect class="k" x="479.64" y="552.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.476s both"/>
+<text class="r" x="256.88" y="568.40" textLength="221.76" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.514s">%#############%@@@@@@@@@@@%#*%@@@@@%%%%##**#</text>
+<rect class="k" x="479.64" y="561.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.514s both"/>
+<text class="r" x="251.84" y="577.40" textLength="226.80" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.552s">*#############%@@%@@@%@@@@@@%%@%%%%%#%##*##%=</text>
+<rect class="k" x="479.64" y="570.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.552s both"/>
+<text class="r" x="246.80" y="586.40" textLength="231.84" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.590s">=%############%@@@%@@@%@@%@%@@%%%%%%%#@%%#%*#:</text>
+<rect class="k" x="479.64" y="579.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.590s both"/>
+<text class="r" x="246.80" y="595.40" textLength="231.84" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.627s">*############%@@@@%@%%#%#%@%@%%@%%%@%*##%%#*#:</text>
+<rect class="k" x="479.64" y="588.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.627s both"/>
+<text class="r" x="241.76" y="604.40" textLength="236.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.665s">-=#%#########%@@@@@@%###*#@%###%%%%%@**#%%#**#:</text>
+<rect class="k" x="479.64" y="597.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.665s both"/>
+<text class="r" x="241.76" y="613.40" textLength="236.88" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.703s">+=+##########@@@@@@@%%##%@%%%#%%%%%@%*#%%%##*#:</text>
+<rect class="k" x="479.64" y="606.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.703s both"/>
+<text class="r" x="236.72" y="622.40" textLength="241.92" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.741s">*=++*########%@@@@@@@%%%%%%%%%%%%%%@%%#%%%%%##%:</text>
+<rect class="k" x="479.64" y="615.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.741s both"/>
+<text class="r" x="231.68" y="631.40" textLength="246.96" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.778s">%*+***+*%@%%%@@@@@@@@%%%%%%%%%%%%%%%##@%%%%%%%#%-</text>
+<rect class="k" x="479.64" y="624.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.778s both"/>
+<text class="r" x="231.68" y="640.40" textLength="246.96" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.816s">@*+***#@@@@@@@@@@@@%@%%%%%%%##%%%%%#%@%%%%%%%%#%=</text>
+<rect class="k" x="479.64" y="633.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.816s both"/>
+<text class="r" x="226.64" y="649.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.854s">=%#+**%@@@@@@@@@@@@@%@%%%%%%%#%%%%%%%@@%%%%%%%%*%=</text>
+<rect class="k" x="479.64" y="642.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.854s both"/>
+<text class="r" x="226.64" y="658.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.892s">#%##*%@@@@@@@@@@@@@@@%%%%%%##%%%%%%%%@%%%@%%%%##%+</text>
+<rect class="k" x="479.64" y="651.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.892s both"/>
+<text class="r" x="226.64" y="667.40" textLength="246.96" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.929s">%%#%%@@@@@@@@@@@@@@@@%%%%%%%%@@%@@%@%@%@@%%%%###%</text>
+<rect class="k" x="474.60" y="660.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.929s both"/>
+<text class="r" x="221.60" y="676.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.967s">-@%#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%##%*</text>
+<rect class="k" x="474.60" y="669.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 2.967s both"/>
+<text class="r" x="221.60" y="685.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.005s">#@%%%@@@@@@@@@@@@@@@@@@@%%@@%%@@@@@@@@@@@@%%%%##%=</text>
+<rect class="k" x="474.60" y="678.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.005s both"/>
+<text class="r" x="216.56" y="694.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.042s">=@@%%@@@@@@@@@@@@@@@@@@@@%%%@@@%@@%@@@@@@@@%%%%##%</text>
+<rect class="k" x="469.56" y="687.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.042s both"/>
+<text class="r" x="216.56" y="703.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.080s">#@@@%@@@@@@@@@@@@@@@@@@@@%@@@@@@@@%@@@@@%@%%%%%#%+</text>
+<rect class="k" x="469.56" y="696.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.080s both"/>
+<text class="r" x="211.52" y="712.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.118s">+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@%@@%%%%%%%</text>
+<rect class="k" x="464.52" y="705.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.118s both"/>
+<text class="r" x="211.52" y="721.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.156s">%#@@@@@@%%@@@@@@@@@@@@@@%%@@@@@@@@%@@@@@%%%%%%%%%%</text>
+<rect class="k" x="464.52" y="714.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.156s both"/>
+<text class="r" x="206.48" y="730.40" textLength="257.04" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.193s">*##@@@@@%%@@@@@@@@@@@@@@@%%@@@@@@%%@@@@@%%%%%%%%%@*</text>
+<rect class="k" x="464.52" y="723.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.193s both"/>
+<text class="r" x="206.48" y="739.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.231s">%*%@@@@%%%%@@@@@@@@@@@@@@%%@@@@%%%%@@@@@%%%%%%%%%@</text>
+<rect class="k" x="459.48" y="732.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.231s both"/>
+<text class="r" x="201.44" y="748.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.269s">-%*%%@@%%%%%@@@@@@@@%%@@@@%%%%@@%%@@@@@%%%%%%%%%@%@-</text>
+<rect class="k" x="464.52" y="741.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.269s both"/>
+<text class="r" x="201.44" y="757.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.307s">+##%@@@%%%%%@@@@@%%%%%%%%%%%%%%%%@@@@%%%%%%%%%%%%%@+</text>
+<rect class="k" x="464.52" y="750.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.307s both"/>
+<text class="r" x="201.44" y="766.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.344s">#*#%@@%%%%%%@@@@%%%%%%%%%%%%%%%%%@@@%%%%%%@%%@%%#%@*</text>
+<rect class="k" x="464.52" y="759.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.344s both"/>
+<text class="r" x="196.40" y="775.40" textLength="267.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.382s">=#*#@@%%#%%%%@@@%%@%%%%%@@%%%@@%%@@@%%%%%@@@@%%##%%@*</text>
+<rect class="k" x="464.52" y="768.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.382s both"/>
+<text class="r" x="196.40" y="784.40" textLength="267.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.420s">***%@%%%#%%%%@%%@@%%%@@@@%%%@%%%@%%%%%@@@@@%%%%%%@@@+</text>
+<rect class="k" x="464.52" y="777.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.420s both"/>
+<text class="r" x="191.36" y="793.40" textLength="267.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.458s">-#*#%%%%##%%%%@@@%%%%@@@@@@@%%#%@%%%%@@@@@%%%%%%@@%%%</text>
+<rect class="k" x="459.48" y="786.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.458s both"/>
+<text class="r" x="191.36" y="802.40" textLength="267.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.495s">*#*%#%%##%%%@@@%%%%@@%%@%%%#%%@@##%%%%%%%%%%%%%%%%%%%</text>
+<rect class="k" x="459.48" y="795.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.495s both"/>
+<text class="r" x="191.36" y="811.40" textLength="267.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.533s">#*#%#%##%%%%%%%%%%@@@@@%##%%@%###%%%%#%@@@@@@%%%%%%@+</text>
+<rect class="k" x="459.48" y="804.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.533s both"/>
+<text class="r" x="186.32" y="820.40" textLength="267.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.571s">-#*%*###%%%%%%%%%@@%@@%#*#%@@%##%######%%%%%%%%%%@@@%</text>
+<rect class="k" x="454.44" y="813.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.571s both"/>
+<text class="r" x="186.32" y="829.40" textLength="267.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.608s">+*#**####%%%#%%%@%@%%#*#%%@@###%#*##*##%####%%%%%@%%*</text>
+<rect class="k" x="454.44" y="822.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.608s both"/>
+<text class="r" x="186.32" y="838.40" textLength="267.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.646s">#*#**###%###%%%%%@%###%%%@#*#**#******####%%%%%@%%%@=</text>
+<rect class="k" x="454.44" y="831.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.646s both"/>
+<text class="r" x="181.28" y="847.40" textLength="272.16" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.684s">-#*#**######%%%%%%###%%%%@# .#**##****#######%%%@@%%%-</text>
+<rect class="k" x="454.44" y="840.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.684s both"/>
+<text class="r" x="181.28" y="856.40" textLength="272.16" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.722s">+**#**#####%#%%%%##%%%%%@#   +*+*#****########%%@%%#%:</text>
+<rect class="k" x="454.44" y="849.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.722s both"/>
+<text class="r" x="181.28" y="865.40" textLength="267.12" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.759s">*+#*######%######%@%#%%@*  . -*+*#*****###**#%@%%%##%</text>
+<rect class="k" x="449.40" y="858.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.759s both"/>
+<text class="r" x="181.28" y="874.40" textLength="272.16" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.797s">**###*###%####%%%@%#%@@*      *++**********##@%%####%-</text>
+<rect class="k" x="454.44" y="867.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.797s both"/>
+<text class="r" x="176.24" y="883.40" textLength="277.20" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.835s">=**#*########%%%%@%#%@%+       =*+*********##%@@%%%##%-</text>
+<rect class="k" x="454.44" y="876.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.835s both"/>
+<text class="r" x="176.24" y="892.40" textLength="277.20" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.873s">***+*######%%%#%@%#%%%=        .*+********##%@%%%%%%#%+</text>
+<rect class="k" x="454.44" y="885.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.873s both"/>
+<text class="r" x="176.24" y="901.40" textLength="277.20" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.910s">**########%%######%%#+          =*+**#***#%#%@%%%%##%%+</text>
+<rect class="k" x="454.44" y="894.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.910s both"/>
+<text class="r" x="171.20" y="910.40" textLength="282.24" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.948s">++#+##########%%%###*+           .*+*%***###%%%%%%%%%#**</text>
+<rect class="k" x="454.44" y="903.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.948s both"/>
+<text class="r" x="166.16" y="919.40" textLength="287.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.986s">-++#*####**###%%%%%*+=             +**%**#####***#@%%%#*#</text>
+<rect class="k" x="454.44" y="912.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 3.986s both"/>
+<text class="r" x="166.16" y="928.40" textLength="287.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:4.024s">++*######*###%%%%%#++              :**%#####**#%%%%######</text>
+<rect class="k" x="454.44" y="921.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 4.024s both"/>
+<text class="r" x="161.12" y="937.40" textLength="292.32" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:4.061s">-++#%#%%###########*+.               +%#%%#**#%%#%####%%#%</text>
+<rect class="k" x="454.44" y="930.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 4.061s both"/>
+<text class="r" x="161.12" y="946.40" textLength="292.32" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:4.099s">++**#*####%%@@%###%#.                :@#%########%#%%@@@@%</text>
+<rect class="k" x="454.44" y="939.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 4.099s both"/>
+<text class="r" x="161.12" y="955.40" textLength="292.32" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:4.137s">#+#***#%####%%##%%%-                  %%#%#**###**#%%###%#</text>
+<rect class="k" x="454.44" y="948.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 4.137s both"/>
+<text class="r" x="156.08" y="964.40" textLength="297.36" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:4.175s">=**#**#*%%%%####%%@#                   +@%%%##***%%######%+</text>
+<rect class="k" x="454.44" y="957.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 4.175s both"/>
+<text class="r" x="156.08" y="973.40" textLength="297.36" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:4.212s">**###*###*%%%#####@-                   -@%@##%%#%@######%@=</text>
+<rect class="k" x="454.44" y="966.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.050s linear 4.212s both"/>
+</svg>
