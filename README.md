@@ -12,10 +12,10 @@ anitikrish-ai@github ~ $ whoami
 
 <table>
   <tr>
-    <td width="48%" valign="top">
+    <td width="37%" valign="top">
       <img src="avi-ascii.svg" alt="ASCII-art portrait generated from my own image" width="100%">
     </td>
-    <td width="52%" valign="top">
+    <td width="63%" valign="top">
       <img src="info-card.svg" alt="Computer Engineering Diploma student and beginner developer into web development and vibe coding. Languages: HTML, CSS, Java, Python. Interests: anime, sketching, digital art." width="100%">
     </td>
   </tr>
