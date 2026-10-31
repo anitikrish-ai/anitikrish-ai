@@ -10,13 +10,16 @@ anitikrish-ai@github ~ $ contributions
 anitikrish-ai@github ~ $ whoami
 ```
 
-<p align="center">
-  <img src="avi-ascii.svg" width="100%" alt="ASCII portrait">
-</p>
-
-<p align="center">
-  <img src="info-card.svg" width="100%" alt="Developer information card">
-</p>
+<table>
+  <tr>
+    <td width="37%" valign="top">
+      <img src="avi-ascii.svg" alt="ASCII-art portrait generated from my own image" width="100%">
+    </td>
+    <td width="63%" valign="top">
+      <img src="info-card.svg" alt="Computer Engineering Diploma student and beginner developer into web development and vibe coding. Languages: HTML, CSS, Java, Python. Interests: anime, sketching, digital art." width="100%">
+    </td>
+  </tr>
+</table>
 
 ```text
 anitikrish-ai@github ~ $ ls repos
