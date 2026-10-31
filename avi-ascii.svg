@@ -1,122 +1,286 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 322 526" width="322" height="526" role="img" aria-labelledby="t d">
-<title id="t">ASCII portrait</title>
-<desc id="d">Monochrome ASCII-art portrait generated from the profile owner's own image.</desc>
-<style>
-.bg{fill:#0d1117;stroke:#30363d}
-.r{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:8.4px;fill:#c9d1d9;animation:show .01s steps(1,end) both}
-.k{fill:#7ee787}
-@keyframes show{from{opacity:0}to{opacity:1}}
-@keyframes cur{0%{opacity:0}1%{opacity:1}99%{opacity:1}100%{opacity:0}}
-@media (prefers-reduced-motion:reduce){.r,.k{animation:none}}
-</style>
-<rect class="bg" x="0.5" y="0.5" width="321" height="525" rx="10"/>
-<text class="r" x="80.48" y="28.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.250s">****+.                    .+++**</text>
-<rect class="k" x="242.76" y="21.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.250s both"/>
-<text class="r" x="80.48" y="37.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.324s">****+.                    .+****</text>
-<rect class="k" x="242.76" y="30.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.324s both"/>
-<text class="r" x="80.48" y="46.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.398s">****+.                    .+***#</text>
-<rect class="k" x="242.76" y="39.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.398s both"/>
-<text class="r" x="80.48" y="55.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.472s">****+.       .::::.       .***##</text>
-<rect class="k" x="242.76" y="48.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.472s both"/>
-<text class="r" x="80.48" y="64.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.546s">****+.       -++**=       .**###</text>
-<rect class="k" x="242.76" y="57.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.546s both"/>
-<text class="r" x="80.48" y="73.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.620s">****+.       =***#=       .**###</text>
-<rect class="k" x="242.76" y="66.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.620s both"/>
-<text class="r" x="80.48" y="82.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.694s">****+.       =**##=       .**###</text>
-<rect class="k" x="242.76" y="75.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.694s both"/>
-<text class="r" x="80.48" y="91.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.769s">*****.       =####=       .***##</text>
-<rect class="k" x="242.76" y="84.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.769s both"/>
-<text class="r" x="80.48" y="100.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.843s">*****.       =#**#=       .***##</text>
-<rect class="k" x="242.76" y="93.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.843s both"/>
-<text class="r" x="80.48" y="109.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.917s">*****.      .+*++*+:      .**###</text>
-<rect class="k" x="242.76" y="102.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.917s both"/>
-<text class="r" x="80.48" y="118.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:0.991s">*****.     .++=+*+++:     .*####</text>
-<rect class="k" x="242.76" y="111.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 0.991s both"/>
-<text class="r" x="80.48" y="127.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.065s">*****.     -===-=++=-.    .*####</text>
-<rect class="k" x="242.76" y="120.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.065s both"/>
-<text class="r" x="80.48" y="136.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.139s">*****.    .-::=:.:.:-.    .*####</text>
-<rect class="k" x="242.76" y="129.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.139s both"/>
-<text class="r" x="80.48" y="145.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.213s">****+.     .:  .+=++.     .*####</text>
-<rect class="k" x="242.76" y="138.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.213s both"/>
-<text class="r" x="80.48" y="154.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.287s">****+.......::=%@@@=.......*####</text>
-<rect class="k" x="242.76" y="147.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.287s both"/>
-<text class="r" x="80.48" y="163.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.361s">***#+++***##=+@@%@==##***+++####</text>
-<rect class="k" x="242.76" y="156.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.361s both"/>
-<text class="r" x="80.48" y="172.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.435s">************=.-*#:.=******++*#*#</text>
-<rect class="k" x="242.76" y="165.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.435s both"/>
-<text class="r" x="80.48" y="181.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.509s">****+=++##=:.  =+ ...-**+*++****</text>
-<rect class="k" x="242.76" y="174.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.509s both"/>
-<text class="r" x="80.48" y="190.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.583s">****+#%%%@#*=:.=+.:-+#%+#%%+****</text>
-<rect class="k" x="242.76" y="183.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.583s both"/>
-<text class="r" x="80.48" y="199.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.657s">***+%@@@#@@#####%%@@%%@#*#%%=***</text>
-<rect class="k" x="242.76" y="192.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.657s both"/>
-<text class="r" x="80.48" y="208.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.731s">+*+*%%@%#%*%%*%%@@@@#%@%=%%%+=*+</text>
-<rect class="k" x="242.76" y="201.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.731s both"/>
-<text class="r" x="80.48" y="217.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.806s">++=*#%@#@%=%%#@@@@@@%%@**%%##=++</text>
-<rect class="k" x="242.76" y="210.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.806s both"/>
-<text class="r" x="80.48" y="226.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.880s">++*%%@@#%@**%@@@@@@@@@@%#%@%%%++</text>
-<rect class="k" x="242.76" y="219.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.880s both"/>
-<text class="r" x="80.48" y="235.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:1.954s">=*@@     %##%@@@@@@@%%%@%@@@%@#=</text>
-<rect class="k" x="242.76" y="228.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 1.954s both"/>
-<text class="r" x="80.48" y="244.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.028s">=+*+*  +*    @@%%@@%*#%@      +=</text>
-<rect class="k" x="242.76" y="237.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.028s both"/>
-<text class="r" x="80.48" y="253.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.102s">=+=-   ==      %%@@%#%% +=   +-+</text>
-<rect class="k" x="242.76" y="246.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.102s both"/>
-<text class="r" x="80.48" y="262.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.176s">==-   ==+*     %#@@@@% *=-*   =+</text>
-<rect class="k" x="242.76" y="255.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.176s both"/>
-<text class="r" x="80.48" y="271.40" textLength="161.28" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.250s">++   *==+*     ##      +===    =</text>
-<rect class="k" x="242.76" y="264.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.250s both"/>
-<text class="r" x="70.40" y="280.40" textLength="181.44" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.324s">%*= *  ====+     ##      ===-    *+%</text>
-<rect class="k" x="252.84" y="273.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.324s both"/>
-<text class="r" x="65.36" y="289.40" textLength="191.52" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.398s">%*--*  *-====     @@      ===-+   +-*#</text>
-<rect class="k" x="257.88" y="282.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.398s both"/>
-<text class="r" x="60.32" y="298.40" textLength="201.60" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.472s">%*+=   +-===+=+    %@     =+===-+   ==*#</text>
-<rect class="k" x="262.92" y="291.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.472s both"/>
-<text class="r" x="55.28" y="307.40" textLength="211.68" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.546s">#*==   --====+      ##      +===---   -=*#</text>
-<rect class="k" x="267.96" y="300.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.546s both"/>
-<text class="r" x="50.24" y="316.40" textLength="221.76" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.620s">#*==  *-===-=+=      #*      +=+==-=-*  :=*#</text>
-<rect class="k" x="273.00" y="309.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.620s both"/>
-<text class="r" x="45.20" y="325.40" textLength="231.84" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.694s">#+--  ++====+==       %%       ==+--===+ +-=*#</text>
-<rect class="k" x="278.04" y="318.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.694s both"/>
-<text class="r" x="40.16" y="334.40" textLength="241.92" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.769s">*-:==++*===-+==        %#        -++-===+**---=#</text>
-<rect class="k" x="283.08" y="327.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.769s both"/>
-<text class="r" x="35.12" y="343.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.843s">* #   -*====++=         %%         =++====*-    +*</text>
-<rect class="k" x="288.12" y="336.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.843s both"/>
-<text class="r" x="55.28" y="352.40" textLength="206.64" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.917s">*+  -==+=+          @@          -=+==-  *</text>
-<rect class="k" x="262.92" y="345.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.917s both"/>
-<text class="r" x="30.08" y="361.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:2.991s">+  *=+  ===+=-==+        %%         *=--+=-=  *=+  +</text>
-<rect class="k" x="293.16" y="354.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 2.991s both"/>
-<text class="r" x="30.08" y="370.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.065s">+=*    =-=+=====::       @%      **=:-===+=-=*    =+</text>
-<rect class="k" x="293.16" y="363.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.065s both"/>
-<text class="r" x="30.08" y="379.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.139s">+++   ++=+++===-         #*          +==+++=+=   ++*</text>
-<rect class="k" x="293.16" y="372.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.139s both"/>
-<text class="r" x="30.08" y="388.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.213s">+#  +  *=+--*            #*             =-+-*  +  #+</text>
-<rect class="k" x="293.16" y="381.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.213s both"/>
-<text class="r" x="40.16" y="397.40" textLength="241.92" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.287s">*=+=#  +--             %%             *:+%  +++*</text>
-<rect class="k" x="283.08" y="390.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.287s both"/>
-<text class="r" x="35.12" y="406.40" textLength="252.00" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.361s">+++**+* +:=             %%              -=%#++**++</text>
-<rect class="k" x="288.12" y="399.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.361s both"/>
-<text class="r" x="30.08" y="415.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.435s">++*****+++:              %%              ==++*****++</text>
-<rect class="k" x="293.16" y="408.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.435s both"/>
-<text class="r" x="30.08" y="424.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.509s">*+*******+-              %%              -=+*******#</text>
-<rect class="k" x="293.16" y="417.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.509s both"/>
-<text class="r" x="30.08" y="433.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.583s">*********+-              %%              -++*******#</text>
-<rect class="k" x="293.16" y="426.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.583s both"/>
-<text class="r" x="30.08" y="442.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.657s">#********+:              %%              :*+*******#</text>
-<rect class="k" x="293.16" y="435.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.657s both"/>
-<text class="r" x="30.08" y="451.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.731s">#**###****=              %%              = +*******#</text>
-<rect class="k" x="293.16" y="444.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.731s both"/>
-<text class="r" x="30.08" y="460.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.806s">#*####***+-              #*             *:+****#***#</text>
-<rect class="k" x="293.16" y="453.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.806s both"/>
-<text class="r" x="30.08" y="469.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.880s">######***=-              %#             *-+****#####</text>
-<rect class="k" x="293.16" y="462.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.880s both"/>
-<text class="r" x="30.08" y="478.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:3.954s">#######**+-              %%              -=****#####</text>
-<rect class="k" x="293.16" y="471.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 3.954s both"/>
-<text class="r" x="30.08" y="487.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:4.028s">#*####***+-              %%              -=+**######</text>
-<rect class="k" x="293.16" y="480.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 4.028s both"/>
-<text class="r" x="30.08" y="496.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:4.102s">#**###***+-              %%              :=+**######</text>
-<rect class="k" x="293.16" y="489.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 4.102s both"/>
-<text class="r" x="30.08" y="505.40" textLength="262.08" lengthAdjust="spacing" xml:space="preserve" style="animation-delay:4.176s">****##***+-              @%              :=*****####</text>
-<rect class="k" x="293.16" y="498.00" width="3.53" height="7.00" opacity="0" style="animation:cur 0.074s linear 4.176s both"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1072 1472" width="100%" height="100%" xml:space="preserve">
+  <defs>
+    <style type="text/css"><![CDATA[
+/* ==========================================================================
+   Terminal Progressive Line-by-Line Print Animation
+   ========================================================================== */
+:root {
+  --bg-color: #0d1117;
+  --text-color: #e6edf3;
+  --cursor-color: #58a6ff;
+}
+.terminal-bg {
+  fill: var(--bg-color);
+}
+.terminal-art {
+  font-family: ui-monospace, 'SF Mono', 'Cascadia Code', 'Fira Code', 'DejaVu Sans Mono', 'Liberation Mono', Menlo, Monaco, Consolas, monospace;
+  font-size: 11px;
+  font-weight: 500;
+  fill: var(--text-color);
+  white-space: pre;
+  text-rendering: geometricPrecision;
+}
+.row {
+  opacity: 0;
+  animation: revealRow 0.045s ease-out forwards;
+}
+@keyframes revealRow {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+.cursor {
+  fill: var(--cursor-color);
+  animation: cursorTrack 3.729s steps(113, end) forwards,
+             cursorBlink 0.16s infinite alternate,
+             cursorFade 0.4s 4.079s forwards;
+}
+@keyframes cursorTrack {
+  0%   { transform: translateY(0px); }
+  100% { transform: translateY(1400.0px); }
+}
+@keyframes cursorBlink {
+  0%   { opacity: 1; }
+  100% { opacity: 0.12; }
+}
+@keyframes cursorFade {
+  to   { opacity: 0; visibility: hidden; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .row { opacity: 1 !important; animation: none !important; }
+  .cursor { display: none !important; }
+}
+.r0{animation-delay:0.000s;}
+.r1{animation-delay:0.033s;}
+.r2{animation-delay:0.066s;}
+.r3{animation-delay:0.099s;}
+.r4{animation-delay:0.132s;}
+.r5{animation-delay:0.165s;}
+.r6{animation-delay:0.198s;}
+.r7{animation-delay:0.231s;}
+.r8{animation-delay:0.264s;}
+.r9{animation-delay:0.297s;}
+.r10{animation-delay:0.330s;}
+.r11{animation-delay:0.363s;}
+.r12{animation-delay:0.396s;}
+.r13{animation-delay:0.429s;}
+.r14{animation-delay:0.462s;}
+.r15{animation-delay:0.495s;}
+.r16{animation-delay:0.528s;}
+.r17{animation-delay:0.561s;}
+.r18{animation-delay:0.594s;}
+.r19{animation-delay:0.627s;}
+.r20{animation-delay:0.660s;}
+.r21{animation-delay:0.693s;}
+.r22{animation-delay:0.726s;}
+.r23{animation-delay:0.759s;}
+.r24{animation-delay:0.792s;}
+.r25{animation-delay:0.825s;}
+.r26{animation-delay:0.858s;}
+.r27{animation-delay:0.891s;}
+.r28{animation-delay:0.924s;}
+.r29{animation-delay:0.957s;}
+.r30{animation-delay:0.990s;}
+.r31{animation-delay:1.023s;}
+.r32{animation-delay:1.056s;}
+.r33{animation-delay:1.089s;}
+.r34{animation-delay:1.122s;}
+.r35{animation-delay:1.155s;}
+.r36{animation-delay:1.188s;}
+.r37{animation-delay:1.221s;}
+.r38{animation-delay:1.254s;}
+.r39{animation-delay:1.287s;}
+.r40{animation-delay:1.320s;}
+.r41{animation-delay:1.353s;}
+.r42{animation-delay:1.386s;}
+.r43{animation-delay:1.419s;}
+.r44{animation-delay:1.452s;}
+.r45{animation-delay:1.485s;}
+.r46{animation-delay:1.518s;}
+.r47{animation-delay:1.551s;}
+.r48{animation-delay:1.584s;}
+.r49{animation-delay:1.617s;}
+.r50{animation-delay:1.650s;}
+.r51{animation-delay:1.683s;}
+.r52{animation-delay:1.716s;}
+.r53{animation-delay:1.749s;}
+.r54{animation-delay:1.782s;}
+.r55{animation-delay:1.815s;}
+.r56{animation-delay:1.848s;}
+.r57{animation-delay:1.881s;}
+.r58{animation-delay:1.914s;}
+.r59{animation-delay:1.947s;}
+.r60{animation-delay:1.980s;}
+.r61{animation-delay:2.013s;}
+.r62{animation-delay:2.046s;}
+.r63{animation-delay:2.079s;}
+.r64{animation-delay:2.112s;}
+.r65{animation-delay:2.145s;}
+.r66{animation-delay:2.178s;}
+.r67{animation-delay:2.211s;}
+.r68{animation-delay:2.244s;}
+.r69{animation-delay:2.277s;}
+.r70{animation-delay:2.310s;}
+.r71{animation-delay:2.343s;}
+.r72{animation-delay:2.376s;}
+.r73{animation-delay:2.409s;}
+.r74{animation-delay:2.442s;}
+.r75{animation-delay:2.475s;}
+.r76{animation-delay:2.508s;}
+.r77{animation-delay:2.541s;}
+.r78{animation-delay:2.574s;}
+.r79{animation-delay:2.607s;}
+.r80{animation-delay:2.640s;}
+.r81{animation-delay:2.673s;}
+.r82{animation-delay:2.706s;}
+.r83{animation-delay:2.739s;}
+.r84{animation-delay:2.772s;}
+.r85{animation-delay:2.805s;}
+.r86{animation-delay:2.838s;}
+.r87{animation-delay:2.871s;}
+.r88{animation-delay:2.904s;}
+.r89{animation-delay:2.937s;}
+.r90{animation-delay:2.970s;}
+.r91{animation-delay:3.003s;}
+.r92{animation-delay:3.036s;}
+.r93{animation-delay:3.069s;}
+.r94{animation-delay:3.102s;}
+.r95{animation-delay:3.135s;}
+.r96{animation-delay:3.168s;}
+.r97{animation-delay:3.201s;}
+.r98{animation-delay:3.234s;}
+.r99{animation-delay:3.267s;}
+.r100{animation-delay:3.300s;}
+.r101{animation-delay:3.333s;}
+.r102{animation-delay:3.366s;}
+.r103{animation-delay:3.399s;}
+.r104{animation-delay:3.432s;}
+.r105{animation-delay:3.465s;}
+.r106{animation-delay:3.498s;}
+.r107{animation-delay:3.531s;}
+.r108{animation-delay:3.564s;}
+.r109{animation-delay:3.597s;}
+.r110{animation-delay:3.630s;}
+.r111{animation-delay:3.663s;}
+.r112{animation-delay:3.696s;}
+    ]]></style>
+  </defs>
+  <rect class="terminal-bg" width="1072" height="1472" rx="8" />
+  <g transform="translate(12.0, 21.0)">
+    <rect class="cursor" width="8" height="11" rx="1.5" />
+  </g>
+  <g class="terminal-art" xml:space="preserve">
+    <text class="row r0" x="26.0" y="30.0">                               cW1-7W$$$$$$$$$#$$WW$$$$$$$$$$$$$$$$$$$$$$$$$$$W39$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$WW?+1WW?-................</text>
+    <text class="row r1" x="26.0" y="42.5">                              ,4W0;#W$W$$W$$W$$$WWW$W$$W$$W$$W$$W$$W$$W$$W$$W$W$$W$$W$$W$$W$$W$$W$$W$$W$$W$$W$W8!3$W3+,............    ?</text>
+    <text class="row r2" x="26.0" y="55.0">                 .            =$W15$$$$$$$$$$$$WWW$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W26WW9c,..........,.,-7??a:</text>
+    <text class="row r3" x="26.0" y="67.5">                 -1;.         bWW4W$$W$W$W$W$W$$$$$W$W$W$W$W$W$W$W$W$W$W$W$$$W$$W$W$W$W$W$W$W$W$W$W$W$W$W$W$W9WW#7=,.....,-::+-,,??-....</text>
+    <text class="row r4" x="26.0" y="80.0">         +,       -42.        2$$$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$WWW$W#2,..,-:?42c+-..;1;...,-:</text>
+    <text class="row r5" x="26.0" y="92.5">         -!a-       07,       9$$$W$W$$W$$W$$W$$$W$$W$$W$$W$$W$$W$$W$$W$$W$$$W$W$$W$$W$$W$$W$$W$$W$$W$$W$W$$$W9a=+b38$6a=,,cc;cc,.,-=:;;</text>
+    <text class="row r6" x="26.0" y="105.0">           ;84b     .?9:.    ,W$W$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$$9$$$$#257W96!:===:18?00?01345566</text>
+    <text class="row r7" x="26.0" y="117.5">             ?$5b,    ?Wa    +#$W$W$$W$W$W$W$W$$$W$W$W$W$W$W$W$W$W$W$W$W$W$$$$W$W$W$W$W$W$W$W$W$W$W$W$W9$$$W$WWW$$$999WW$W$W$$$W$$$$$$$$</text>
+    <text class="row r8" x="26.0" y="130.0">              :6W9!=  ,cW4   ;W$W$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$W$$$W$$W$W$</text>
+    <text class="row r9" x="26.0" y="142.5">                2WW81-  ?W4, aW$$$W$W$$W$$W$$W$$$$W$$W$$W$$W$$W$$W$$W$$W$$$$$W$$W$$W$$W$$W$$W$$W$$W$$W$$$$$$W$$W$W$$W$$W$$W$$$$W$$$$$$$$</text>
+    <text class="row r10" x="26.0" y="155.0">                ,?W$W8!=-a#9b!W$W$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$W$W$$$$$$$$$$$$$$$$$$$$$$$$$$$W$$W$$$$$$$$$$$$$$$$$W$$$$W$W$W97</text>
+    <text class="row r11" x="26.0" y="167.5">                 .!WW$W92+0##8$$$$W$$W$W$W$W$$$$$W$W$W$W$W$W$W$W$W$W$W$W$$$$$W$W$W$W$W$W$W$W$W$W$W$W$W$$$$$$W$W$$W$W$W$W$W$$$$W$$$W$8889</text>
+    <text class="row r12" x="26.0" y="180.0">                  ,b#W$$W$!6W$$W$$$$$$$$$$$$$W$W$$$$$$$$$$$$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W$W$$$$$$$$$$$$$$$$$W$$WWW#99W$88</text>
+    <text class="row r13" x="26.0" y="192.5">                    1WW$$WW$W$$$$W$W$$W$$W$$$$$$$W$$W$$W$$W$$W$$W$$W$$W$$$$W$$W$$W$$W$$W$$W$$W$$W$$W$$$$$$$W$$W$W$$W$$W$$W$$$W$98998$899</text>
+    <text class="row r14" x="26.0" y="205.0">                    ,7W$$$$$$W$W$$$$$$$$$$$W$W$$$$$$$$$$$$$$$$$$$$$$$$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$$W$$W$$$$$$$$$$$$$$$$$$W$$W896898888</text>
+    <text class="row r15" x="26.0" y="217.5">                     ,WW$$W$$$$$$$W$W$W$W$$$$$$W$W$W$W$W$W$W$W$W$W$W$W$$$$W$W$W$W$W$W$W$W$W$W$W$W$W$$$$$$$W$W$$W$W$W$W$W$$99965888888888</text>
+    <text class="row r16" x="26.0" y="230.0">                      +9$$$$W$$W$$$$$$$$$$W$$W$$$$$$$$$$$$$$$$$$$$$$$$WWWW$W$$$$$$$$$$$$$$$$$$$$$$$$W$W$W$$$$$$$$$$$$$$$W$W7$966999988$W</text>
+    <text class="row r17" x="26.0" y="242.5">                       bW$W$$$$$$W$$W$$W$$$$$$$W$$W$$W$$W$$W$$WWWWWWWWWWWWWW$$W$$W$$W$$W$$W$$W$$W$$$$$$$$$W$$W$W$$W$$W$$$$$$$W$W$988$W2;</text>
+    <text class="row r18" x="26.0" y="255.0">               .::      7W$$W$W$$$$$$W$$$W$W$W$$$$$$$$$$$$$$WWWWWWW#W#W#W#WW$$$$$$$$$$$$$$$$$$$$$$W$W$$W$$$$$$$$$$$$$$$W$W$$$$$$$$$W$W$$</text>
+    <text class="row r19" x="26.0" y="267.5">                 b2c    =8WW$$$$W$WWWW$W$$$$$$$W$W$W$W$W$WWWW#W##$56#WWWWWWW$W$W$W$W$W$W$W$W$W$W$$$$$$$$$W$W$$W$W$W$W$$$$$$W$W$$W$$$9756</text>
+    <text class="row r20" x="26.0" y="280.0">                   !7b,, !#W$$W$$$$WWW$$WW$$W$$$$$W$$$$$WW99W#W6!b6#W#W#8WW$$$$$$$$$$$$$$$$$$$$$$W$$W$W$$$$$$$$$$$$$$$W$$W$$$$$$$$$$W$$$</text>
+    <text class="row r21" x="26.0" y="292.5">                    =77!,+9#W$$$W$WW#W$WWW$$$$W$$$$W$WW#808#9?;:c87$#92a8$$$W$$W$$W$$W$$W$$W$$W$$$$$$$$$W$$W$W$$W$$W$$$$$$$W$$W$W$W$$$$$</text>
+    <text class="row r22" x="26.0" y="305.0">                      ?W8!bWWW$W$$W#W$$WWW$$W$W$WW9$$#5a;350a::;21$8?:;7W$W$$$$$$$$WW$$$$$W$$$$$W$W$$W$$$$$$$$$$$$$$$W$W$W$$$$$$$$$$W$W$</text>
+    <text class="row r23" x="26.0" y="317.5">                      .;$#9$W#WWWW#8WWWWWW$$$W$3#53#9!+:!a;1;+:+;1b:+b855$$$#99WWW85#W$W$$$$$W$$$$$$$$$W$W$$W$W$W$W$$$$$$$$W$W$$W$$$$$$$</text>
+    <text class="row r24" x="26.0" y="330.0">                        +WWW#WW#WWW?6$W29W$WW5bW00W3:+====!?:::+::::;?:3WW945$W80!5#$$$$$W$$$$$W$$W$W$$$$$$$$$$$$$$$W$$W$$$$$$$$$$W$$W$$</text>
+    <text class="row r25" x="26.0" y="342.5">                  --.    +$W$WWWW#4+a#6a7W$W?=4b+4;+=====+1:::::::::::c42c:a71ca189W$W$$$$$W$W$$$$$$$$W$$W$W$$W$$W$$$$$$$W$$W$W$W$$$$$$W</text>
+    <text class="row r26" x="26.0" y="355.0">                   a?!;-  b#W$8W8$a=+90:4$$b==+==+====-==:4=:::::+::::::::::;::!0779$$$W$W$$$$$W$W$$W$$$$$$$$$$$$$$W$W$W$$$$$$$$$$W$W$$$</text>
+    <text class="row r27" x="26.0" y="367.5">                      b?2!:;WW$1#7:==9b+0#b========-=====:3+:::+:::::::::::::::a27WW$$$$$$$W$$$$$$$$$$W$W$$W$W$W$W$$$$$$$W$W$$W$$$$$$$W$</text>
+    <text class="row r28" x="26.0" y="380.0">                        -1W68WWa63+==+==b2-===-==-=====-=:2+::::::::+::+:::::;1757WW$W$W$$$$$W$$W$W$W$$$$$$$$$$$$$$W$$W$$$$$$$$$W$$W$W$$</text>
+    <text class="row r29" x="26.0" y="392.5">                          ,?$W$1+a-=========-========-===+1+::::::+:::::::+:b1459W$W$$$$$W$W$$$$$$$$$$$W$W$$W$$W$$$$$$$$W$$W$W$$$W$93bcb</text>
+    <text class="row r30" x="26.0" y="405.0">                            ,!9:========-=========-======a?+:::+::::::::::::;;c1399W$$W$$$$$$W$W$$W$$W$$$$$$$$$$$W$W$W$$$$$$$$$W$$$$WW93</text>
+    <text class="row r31" x="26.0" y="417.5">                              $,===-==-===-:;==-=======-=0!::::::::::+::::;c::::;?48W$$$W$$W$$$$$$$$$$$W$$W$W$W$$$$$$$$W$W$$W$$$$W$$$$$$</text>
+    <text class="row r32" x="26.0" y="430.0">                              $-==========:b;======-=====?!:::::::+:::::+:c0:::::::;!4#$$$$$$W$$W$W$W$$$$W$$$$$$W$$W$$$$$$$$$$W$$$$W$W$$</text>
+    <text class="row r33" x="26.0" y="442.5">                             ,8-====-===-:02+=-==-===-==-?a::+::+:::::::::!1::::::::a27#WW$W$$$$$$$$$$W$$$$$W$$$$$$$$W$W$$W$W$$$W$$$$$$W</text>
+    <text class="row r34" x="26.0" y="455.0">                            ,0!,===:==-=+06a=============?!+:::::::::+::::3a:::+:::::a58$$$$$W$W$$W$$$$$$$W$W$W$W$W$$$$$$$$$$$W$$$W$$W$$</text>
+    <text class="row r35" x="26.0" y="467.5">                           ;3:===-+:===+035====-===-=====b1::::::::+:::::a3a:::::::::;!3WW$$$$$$$$$$W$W$$W91!1$$$$$$W$$W$W$$W$$$W$$$$$$$</text>
+    <text class="row r36" x="26.0" y="480.0">          . -::-          ;2--,=-;cb+==;210,-===:+====-==a0+:::+::::::::;20b:::::+:::::b?WWW$$W$W$W$$$$W9!:;c!2WW$W$$$$$$$$$$$W$$$W$W$W$</text>
+    <text class="row r37" x="26.0" y="492.5">      .,b12120!?40-       c4;+-=?73!1:+;3?++-:00b:=======0b:::::::::::+;141b::+:::::::::cb5WW$$$$$$$W$#2:+;ba!!6#$$$W$W$$W$W$$$$W$$$$$$$</text>
+    <text class="row r38" x="26.0" y="505.0">     -84a=,,,,,,,:1;       +2a:+:b!!;!c?;=+-!53!;ab:;==+!a+::::::+::+::?633;:::::::+:::::;04#W$W$$W$WW!+:;;4a20!WW$$$$$$$$$$$W$$$$$W$$W$</text>
+    <text class="row r39" x="26.0" y="517.5">     c8:,,,,-+:?2?b!+       ,cac::+:c!1++===!11030??bcc!2++::+::::::::;3235!:::::+::::+:::;3#W$$$$$$9c;b!140?41a6W$W$$W$W$$W$$$W$W$$$$$$</text>
+    <text class="row r40" x="26.0" y="530.0">,+;c10-,,,=;b;3a             +043!!a!a?a::++++++:cc:::::a?;:::::::::::;33343b:::::::::::::::?W$$W$WW?:ccc?!?0ab6?9$$$$$$$$$$$W$$$$$W$W$$</text>
+    <text class="row r41" x="26.0" y="542.5">;aac+,,,,,ccc!5,             c77W89875520ac++=+:caa!bc;;c?3c::::+::+:::b1533!;::::c::::::::::4W$$W#2;:::;c?010a7!5W$W$$W$W$W$$$$W$$$$$$W</text>
+    <text class="row r42" x="26.0" y="555.0">,,,,,,,,,,,=:+3+              3$$898W25ab253abbaa25773565234abbcccbbc;ca!033?:::::1a:::+::+::!W$$$8::::ccb0cb!3!b5W$$$$$$$$$$W$$$$W$$W$$</text>
+    <text class="row r43" x="26.0" y="567.5">,,,,,,,,,,,,=b38             .8$$$$$$76+=:b111?25644458bcca22640002882acb?21b:::::41b::::::::b#$$W!::::;bccb?c2;b$$$W$W$$W$$$$$W$$$$$$$$</text>
+    <text class="row r44" x="26.0" y="580.0">,,,,,,,,,=+a!c        =ba+,   47$$9$$$c==:26620344352353!?aacb!baa?a!2?::b?b::::;b64a:::::::+;#$$7::::bcba!10b!;8W$$$$$$$$$W$W$$$W$W$W$9</text>
+    <text class="row r45" x="26.0" y="592.5">,,,,,-,,+b3         +W?:,,=1=:cc?6898;=-:01!!1520aa!13?ac=a!++-=+ba?1?;::;;::::c!551b::+::::::7$#a::+b410100!!b9W$$W$$W$W$$$$$$W$$$$$$86</text>
+    <text class="row r46" x="26.0" y="605.0">,,,,,,,;b1?    +b!001b+;cb13c1c-,;02?=-=!2!::bcb:+::::a???50??!?0?bc;::::::::+;1555!::::::+:::3W9+::+:?ca1cc;a9$$$$$$$$$$$W$$W$$$$W$$$$W</text>
+    <text class="row r47" x="26.0" y="617.5">,,,,,,;bb?1  =12+,  +c;;c!8-,.8!+=:0c-=;41b:::+c:::+:::+:=3;;ccc;::::::+::::;05440?c::::::::::0#2::+:a6!b1c:?$$W$W$W$W$$W$$$$$$W$$$$W$$$</text>
+    <text class="row r48" x="26.0" y="630.0">,,,,,:c?373c;b+,  ,;c;c;;4b,,;!35c:c=-=?0b::+::;:+:::+:::+?+:::::::::+::::b25720bcb:::+:::::::!#b:::b7a!?;;1#$$$$$$$$$$$$$W$W$$$$W$$$$W$</text>
+    <text class="row r49" x="26.0" y="642.5">,,,,=!80:        ,+::c;c;;b!010a92c-,=:c::+:::+::::+:::+::?=::::+::+::::c25583a::::::::::+::::;7:::::13!;c0$$$W$$W$$W$W$W$$$$$W$$$$W$$$$</text>
+    <text class="row r50" x="26.0" y="655.0">,,,c2!          .+-=;c;c;c;?7a::53c-.=b::::+::::+:::+::::+?:::+::::::::b65263?::::::::::::::::;2+::::;abc2W$$$$$$$$$$$$$$$$W$$$$W$$$$W$$</text>
+    <text class="row r51" x="26.0" y="667.5">,+;b              -c;c;c;a73c:::;8?.,:b:::::::+::+:::+:+:+0+:::::::::;!50a240a:::::+::+::::+:::cccccbcba0$W$W$W$W$W$$W$$W$$$$W$$$$W$$$$W</text>
+    <text class="row r52" x="26.0" y="680.0">,-,            .,,:;c;c;c71:+:+::5!.,;::+;!0c;::::+:::::+:b;:::+::+::12acb42a::::::::::::+:::::a;;2WW##W#$W$$$$$$$$$$$$$$$W$$$$W$$$$W$$$</text>
+    <text class="row r53" x="26.0" y="692.5">             ,-=--;c;c324!;:+::+c5-.-a::b34310c::::+:+:::++0;+++::::aac;c34a::::+:::::::::::::b::+16WW$$$$$$W$$W$$W$W$W$W$$$W$$$$W$$$$W$</text>
+    <text class="row r54" x="26.0" y="705.0">           .+;;::cc!9ac;::+::+::b?,.:b:a!ac;b!3?;:+:::+:::+;a=:::::::+::b2!;:::::::+::+::::::c2+::079#$$W$$$$$$$$$$$$$$$$$W$$$W$$$$W$$$$</text>
+    <text class="row r55" x="26.0" y="717.5">          ,;;;c;c;c71::+:::+::::3c,,bc=-,=+:ca02a:::+::+:+::!+:::::::::04a41a!0b;:::::::::+:;00:+:+0$W$$$$W$W$W$W$$W$$W$$$$$W$$$W$$$$W$$</text>
+    <text class="row r56" x="26.0" y="730.0">         ,;;c;c;b67!::+::+:::+:+W,.=!;--=:ca?010b::::+:::::;0+::+:::::c2ac?22651a::::::::;:;!6a+:+:c19W$W$$$$$$$$$$$$$$$W$W$$$W$$$W$$$$8</text>
+    <text class="row r57" x="26.0" y="742.5">         :c;c;a17!,.,+::+::+::;28,-0!c;b0567862a::+::::+:+::?=::::::::c;;:c0!350a;:::+:::::b15a:+:+c07$$$$W$$W$$W$W$W$W$$$$$W$$$W$$$W$$$</text>
+    <text class="row r58" x="26.0" y="755.0">         :;c:b0=    ,::+::::;3$W2+;3?022334431a::::+:+::::+:2:::::+::::::;02!24?b:::::::::b?91c+::+:a4W$$$$$$$$$$$$$$$$$W$$$$$W$$$W$$$W$</text>
+    <text class="row r59" x="26.0" y="767.5">         =+7       ,=::::+:07$$$7?38925523420a+:;caaa!!??!aa2bcc;;c;;;c!240b?31a::::::;;:;a87a+:+::+:3W$W$W$W$W$$W$$W$$$$$W$$$$$W$$$W86$</text>
+    <text class="row r60" x="26.0" y="780.0">cc=    ,-+1c     -++::+:+?9$$$$$$WW$$W800321?a!!!abc;;;;;;b0bba!0?!?13143abc22!;::::+:;cb164a:::+:+::c4#$$$$$$$$$$$$$$W$W$$$W$$$$$W$$9!1</text>
+    <text class="row r61" x="26.0" y="792.5">cccc;;;;+4!     -:::+:+!6W$$$$$$$$$$$W55!++==----,,,-,=+====,;;cb+c!1!1?bc:!3!;::::::cb?4?c;+:+:+::+:+b8W$$W$$W$W$W$W$$$$$W$$$W$W$$$$W9:</text>
+    <text class="row r62" x="26.0" y="805.0">ccc;b0;+a+      =:+::b5$$$$$$$$$$$$980280a+--,..,,,--=:;;;c1;;c06?10!!a;::;10;::::+:c?0c;:+::+:+:+:+:+:a7WW$$$$$$$$$$$W$$$$$W$$$$$W$$$$1</text>
+    <text class="row r63" x="26.0" y="817.5">++=c4=.        -:::c59$$$$$$$W$$$W94!!93c:;;a!cbccc:===,=cba22!ab!0!bc::::a?:::::;c01a::+:+:+::+::+:+::+!9#W$W$$W$$W$$$$W$W$$$W$$$$$W$$$</text>
+    <text class="row r64" x="26.0" y="830.0">==68-        ,+:+;29$$$$$$$$$$$$$50!!?$:4c+,,,,,,,,,,,,,-:bbbb:?!!c;:::::;b;::::c?1a::+:+::+:+::+:+::+:+c?WW$$$$$$$$$W$$$$$$W$$$W$W$$$$$</text>
+    <text class="row r65" x="26.0" y="842.5">b81,   ,+++++::+!$$$$$$$W$$$$$W70!!!a!8b,!1c:+===+:;cba!???0?2;+:::::::::::::;b12!::+::+:+:+::+:+::+:+::::4#W$W$W$W$$$$W$$W$$$W$$$$$W$$$</text>
+    <text class="row r66" x="26.0" y="855.0">b,   ,=:::::::c7W$$$$$W$$$$$W90!!!abbcb8!--==---==++::;:::::;0:::::+::+:::;cb?0bc+:+:+:+::+:+:+::+:+::+:+:a7W$$$$$$$W$$$$$$$W$$$$W$$$$W$</text>
+    <text class="row r67" x="26.0" y="867.5">     =::+:+::4$$$$$$$$$$$$WW3?!!ab;:::=;#;??c::+++:::;;;;b!?b2;:+:::::::;cb0?b+:+:+:+:+:+:+::+:+:+::+:+:+::!#$W$$W$$$$W$W$W$$$$W$$$W$$$$</text>
+    <text class="row r68" x="26.0" y="880.0">    .+:::::09$$$$$$$$$$$WW6?!!!b;::=,.,.8;:07743222222221?a::bb:::::::;ba20;:+:+::+::+::+::+:+::+:+:+::+:+:;6W$$$$$W$$$$$$$$$W$$$W$$$W$$</text>
+    <text class="row r69" x="26.0" y="892.5">    -:+:+b6W$$$$$$$W$$$W70a!!b;::=,..,..4a-+;?20!!!!abcc::+++ca::::::b??0b;+:+::+::+::+:+:+:+:+:+::+:+:+::+:a9W$W$$$$W$$W$$W$$$W$$$W$$$W</text>
+    <text class="row r70" x="26.0" y="905.0"> .,+::::19$$$$$$$W$$$$91aabc:::=,..,..,.8b=+++:::::++++++++++;!::+;;01?c::+:+:+:+:+:+:+::+:+::+::+:+::+:+:+::5W$$$W$$$$$$$$$$W$$$$$$$W$$</text>
+    <text class="row r71" x="26.0" y="917.5">:::+::b7W$$$$$$W$$$$82aab;::=-.,.,..,.. $;+=+++++++++++++++++c1;;c13a;::+:+::+:+:+:+:+:+:+::+:+:+:+:+:+::+:+:aWW$$$$W$W$W$W$$$$W$W$$$$$$</text>
+    <text class="row r72" x="26.0" y="930.0">::::;1$W$$$$$$$$$$94!ab;::=,.,..,.,..,.-#++=+++++++++++++:++:c1a23bc:+:+:+:+::+::+::+::+::+:+::+:+::+::+:+::+:1W$W$$$$$$$$$$W$$$$$$W$W$$</text>
+    <text class="row r73" x="26.0" y="942.5">:+:b5W$$$$$$W$$$$71!ac::=,..,.,...,.,.,-#++=++++++++++++:;;ba?30c::+:+:+::+:+:+:+:+::+:+:+:+:+:+::+:+:+:+:+:+:+3W$$W$$W$$W$$$$W$$W$$$$$W</text>
+    <text class="row r74" x="26.0" y="955.0">::1$$$$$$$$$$$$95!ab:+=,..,....,.,...,..b7ccccccc;;:;cbaa!??!a;;:+::+::+:+:+:+:+::+:+:+:+:+::+::+:+::+:+::+::+:a$$$$$$$$$$$W$$$$$$$W$$$$</text>
+    <text class="row r75" x="26.0" y="967.5">;5W$$$$$$$$$$$90ab;:+,..,..,.,..,.,.,.,.,a973?!?!?!!????30?cc::+::+:+:+:+::+::+:+:+:+::+::+:+:+:+::+:+::+:+:+:+:4W$W$W$W$W$$$W$W$W$$$W$$</text>
+    <text class="row r76" x="26.0" y="980.0">8$$$$$$$W$$$W4aac::,.,.,.,..,.,...,...=bb,+058987332114966?+:+:+:+:+:+::+:+:+::+:+::+:+:+:+::+:+:+:+::+:+::+:+:+a8$$$$W$$$$W$$$$$$$W$$$W</text>
+    <text class="row r77" x="26.0" y="992.5">$$$$$$W$$$W8?ab:=,.,..,...,..,.,.,.,;03+,.+bc:,,:a355794176b:+::+:+::+:+:+::+:+::+:+:+::+::+:+::+:+:+:+::+:+::+:;2$WW$$WW$$$$W$$W$$$$W$$</text>
+    <text class="row r78" x="26.0" y="1005.0">$$$$W$$$$#5aa;:-.,..,..,.,.,....-;070=,...+=-.+178654312586b::+:+::+:+::+:+:+::+:+::+:+:+:+:+:+::+::+::+:+:+:+:+:a7$WW9W7#$W$$$$$$W$$$$$</text>
+    <text class="row r79" x="26.0" y="1017.5">$$$$$$$$W1bb;=,.,.,..,..,...,.;66?;.....,.:,-a490?268$W65?b?+:+::+:+::+:+::+:+:+::+:+::+:+:+::+:+:+:+:+:++::+::+:c1$WW9W$W$$$W$W$$$$W$W$</text>
+    <text class="row r80" x="26.0" y="1030.0">$$$$$$W8!ac:,,...,.,..,..,.,,13+....,.,.-=-,19W4b3W7200;:!!2;:+:+:+:+:+::+:+::+:+:+::++::+::+:+::+:+:+:+::+:+:+::aa8W$$$WW8W$$$$$W$$$$$$</text>
+    <text class="row r81" x="26.0" y="1042.5">$$$$WW6a!;:,..,.,...,..,..,,8!..,++=+=--,.+!$WWbb39!:::::!a:!0c::+::+::+:+::+:+::+:++=+:+:+:+::+:+::+::+:+:+:+:+caa3#$$$WW$$$$W9$$$W$$W$</text>
+    <text class="row r82" x="26.0" y="1055.0">$$$W$6bbc=,.,..,.,.,.,..,.,8b,-+......,.,c4WWW4cc73a::+:+c!:+b2;::+:+:+:+:+:+::+:++=:=+:+::+:++:+:+::+:+::+::+::caa?W$9$W9W$9$WW49$$$$$$</text>
+    <text class="row r83" x="26.0" y="1067.5">$$$#5ab;-,...,...,..,.,..,3?.,=.,.,.,.,=1$WWW#b;26b:+:+::;c+:+c0!+:+:+:+::+::+:+:++::=:+:+:++++::+:+:+::+:+:+:+:ba!56#$$WW8$9WW$84$$W$W$</text>
+    <text class="row r84" x="26.0" y="1080.0">$$W4ab+-..,.,.,.,.,....,=60 .-=--..,.,=2WWWWW3+03c;::+:+:+::+:+c!+::+::+:+:+:+:++:+:++::+:+:+:++:+::+:+:+::+:+::ba60?#WWWW898WW9W33$$$$$</text>
+    <text class="row r85" x="26.0" y="1092.5">$W7bb;-.,..,...,...,.,.a8;.,.,,,=,,..+1WWWWW3=?1;::+:+:+:+:+;:::a:+::+:+::+:+:++:+:++:+:+::+::++::+:+::+:+:+:::;?4!!1WW98WW69W9$$714$W$$</text>
+    <text class="row r86" x="26.0" y="1105.0">W8bb;=...,..,.,.,.,.,.,c,...,...=.,-;8WWWW$;=a1;+:+:+::+::+:cb::::+:+:+:+:+:+++:+:+::+:+:::+:++:+:+::+:+::+:+:a67ba1WWW989W4$807$$3?4$$$</text>
+    <text class="row r87" x="26.0" y="1117.5">6bc;+.,.,.,..,...,...,...,.,.,.,,,,aWWWWW7c-:?::+::+:+:+:+:+ba:+:+:+:+::+:+-=:+::+:+::+::;+:+:+:+::+:+::+:::b393aa2WWWWW88W8W0??9$7!?6W$</text>
+    <text class="row r88" x="26.0" y="1130.0">;c;+.,..,..,..,.,.,a+.,.,...,.,..-!$W$W94+b3?::+:+:+:::+:+::!;:+::+::+:+::++:+:+::+:+:+b?::+:+:+:+:+::+:+:b?84!aa3WW$$$W889W6???19W1!?5$</text>
+    <text class="row r89" x="26.0" y="1142.5">;:=.,.,..,..,..,.=0-...,.,.,...,-0WWWW3;+56c::+:::+:+==++:+:!+:+:+:+:+::+:+:+:+:+:+:::??:+::+::+::+:+:+::c690?aa6WW$$9$W$88#2?b!!5$8a??6</text>
+    <text class="row r90" x="26.0" y="1155.0">=,,....,..,..,.,!!,.,.,...,.,.-c6WWW7?bb75;:+::+:-=:+++::+:b;+:+::+:+:+:+:+::+::+:::?1c=+:+::+::+:+::+:++1$!!!a7W$$9$$$$W88W6?bc??7$?b?0</text>
+    <text class="row r91" x="26.0" y="1167.5">.,.,.,..,..,..=2b..,...,.,..,=3WWWWW1!!4W1c::+:+:-!+::-c+:c+::+:+:+::+:+::+:+:+:+;!40b-+::+:+:+:+::+:+::;74:aa5W$$9$9$$$#9$W9!b:c!?99;a?</text>
+    <text class="row r92" x="26.0" y="1180.0">..,..,.,.,..,;4-.,..,.,...,c5$WWWWW8a!?91:::+:+::-b;+:+::++-:+:+:+:+::+:+:+::+:+!310?++::+:+:+:+:+:+::+:1W;-bb8$9$$$$9$9WW$W#!:-+b?0$1c!</text>
+    <text class="row r93" x="26.0" y="1192.5">,..,..,...,.a0,.,.,..,.,.:4WWWWWWW$:b?91c:::+::+:=a1:+:::+++:+::+::+:+::+::+::c2331b=:;+::+::+::+:+:+::?$!,,;?9$$9$9$$9$9WW$W4=,,;?c1Wca</text>
+    <text class="row r94" x="26.0" y="1205.0">.,..,..,.,-1:..,...,....bWWWWWW$WW;:a90::+:+:+:+:=b40:+:+:+=::+::+:+::+:+:+:;?3221c+;::+:+:+::+:+::+:+b$!,.,:599$$9$9$$9$WW$W7-,,=b;+97+</text>
+    <text class="row r95" x="26.0" y="1217.5">..,..,..,:3-.,..,.,.,.,=$WWWWW$WWa,;91:+::+:+:+::=a21;:+:+:+=:+:+:+:+:+::+:;3310a+::+:+:+:+:+:+::+:+:;9b.,,,;$$9$9$$$9$$$WW$WW:,,,++-;Wb</text>
+    <text class="row r96" x="26.0" y="1230.0">,..,..,.b1,.,.,..,...,,3WWWW$W$W8-+6?c:::++:+::+:+c33c+::+:+=:+:+::+:+:+::;!2135;:+::+::+::+:+:+:+::;c8-,.,,4$9$$$9$9$9$$WW$#$1,.,-=--?7</text>
+    <text class="row r97" x="26.0" y="1242.5">.,..,.,0!.,....,..,.,=3WWWWWW$WW!+7!;:+::++::+:+::+!7c:+::++++:::+:+::;!23221340c::::;;;;;ba!:::::c;:b9,,,,;9$$9$9$$$9$$W#7WW$2,,,,=-,+9</text>
+    <text class="row r98" x="26.0" y="1255.0">..,..,4c...,.,..,.,,+8WWWW$WWW8:+4!:+::++::+:+::+:+=41;:+::+:+++:+:++b3312132455431?0c;c:+::::+:+:::+12.,.=7$9$$9$9$9$9$W619$W2=,,,,,,,:</text>
+    <text class="row r99" x="26.0" y="1267.5">,..,,c+,.,..,.,..,=!9WWWW$WWW7-=3a;:+::::+:+::+:+:+::0a::+:+::+:;cb?!10!;+++===+++:+:+:+:+:+:+:+:+::;8=,.,3$$$9$$$$9$$$$#0a69W4-,.,,,.,,</text>
+    <text class="row r100" x="26.0" y="1280.0">.,.==,,..,.,...,,=3WW$WW$$WW?-+3!:+::+::+:+:+:+::+:+:+ac+:+:+:+:;c:==++++:::::+:::+:+:+::+:+::+::+:;07.,.b$$9$$9$9$$9$9$W0a08W7-,,,.,,,,</text>
+    <text class="row r101" x="26.0" y="1292.5">.,,c,..,..,.,.,=:5W$$WW$WW9;--2a:+:+::+:+::+:+:+:+::+:+:+:+:+::+:+::+:+:+:++:+:+:+::+::+:+::+:+:+:+c7-,,+8$$9$9$$9$9$$9$W1;a7$W:,,,,,,.,</text>
+    <text class="row r102" x="26.0" y="1305.0">.=;=,.,.,..,,=+?8WWWWWWWW3=-abb;+::+:+:+:+:+::+:+:+:+:+:+::+:+:+::+::+::+:::+:+:+:+::+:+::+:+::+:+:;b,.,7W$9$$$9$$9$9$$9W6+;299a,.,,.,,,</text>
+    <text class="row r103" x="26.0" y="1317.5">+22?cb;=,,.-+:39WWWWWWWW0,c4!c;:+:+:+:::+:+:+::+::+::+:+:+:+::+:+++++:+:+:+:+::+::+:+:+:+:+::+:+::;!-,,1#$$$9$9$9$$$$9$$W9-ca6W!,,,,,,.,</text>
+    <text class="row r104" x="26.0" y="1330.0">03c;;;;;a:+:?9WWWW962?c+-27a::;:+::+:::+::+::+:+:+:+:+::+:+:+:+:::::+:+::+:+:+::+:+:+::+:+:+:+::++!1.,-8$9$9$$$9$9$9$$9$$7,;c492.,.,,,,,</text>
+    <text class="row r105" x="26.0" y="1342.5">bc;;;;;;;bc7$WWW4c--,,,+84b:;;:+:+::+:::+::+:+::+:+:+:+::+::+::+:++:+::+:+::+:+:+::+:+:+::+:+:+::;7!,.,9$$9$9$9$$$9$9$$$W1,=;?79-,,,.,,,</text>
+    <text class="row r106" x="26.0" y="1355.0">;;;;;;;;;c1WWWW9!a:=?134!;:+;:+::+:+::+:+:+:+:+:+::+::+:+:+:+:+:+::+:+:+::+:+::+:+:+::+:+::+::+:;28=,,,W$9$$$9$9$9$$$9$W2,--;c4Wc,.,,,.,</text>
+    <text class="row r107" x="26.0" y="1367.5">;;;;;;;;;c9WWWW7a!47acb;:+::+:+:+:+:+:+::+:+::+::+::+:+::+:+:+:+:+::+:+:+:+::+:+::+:+:+::+:+:+:+c67,,,:W$$9$9$$$9$9$9$$9,-,-=;?82-,,,,,+</text>
+    <text class="row r108" x="26.0" y="1380.0">;;;;;;;;;aWWW$W4a!65a+:+::+:+::+:+::+::++:+:+:+:+:+:+::+:+::+::+::+:+::+:+:+:+::+:+::+:+:+::+:+:b9a,,+!$$9$$$9$9$$$9$993,-,--c;68c;=:,,?</text>
+    <text class="row r109" x="26.0" y="1392.5">;;;;;;;;;?$WWW9!a!55c:+:+:c+:+:+::+:+:+:+++::+:+:+:+:+:+::+::+::+:+::+:+::+:+:+:+::+:+::+:+:+::;74,-bb2$9$9$9$$$9$9$$9#a+c:a?545W7443:=?</text>
+    <text class="row r110" x="26.0" y="1405.0">;;;;;;;;;1$W$WWaaa54;+:+:;::+:+:+:+::+:+::+:+::+::+::+::+:+:+:+:+::+:+::+:+::+:+:+:+::+:+::+:+;63,=caa7$$$$9$9$9$$$9$$73b6::cac;4?-:=,+;</text>
+    <text class="row r111" x="26.0" y="1417.5">;;;;;;;;:7WWWWWaaa7?c:+::::+::+::+:+:+::+:+::+:+:+:+:+:+:+:+:+:+:+:+::+:+::+:+::+:+:+:+::+:+::bW!baaa?W$9$9$$$9$9$9$9$3c?:=c!cbb0?;,,,=c</text>
+    <text class="row r112" x="26.0" y="1430.0">;;;;;;;;2WWW$WW;!30:;::+:+:+:+:+:+::+:+:+::+:+:::+:+::+:+::+::+::+::+:+::+:+::+:+::+:+:+:+::+::63aaab0W9$$$9$9$$$9$$$$1b7!110b:8!27:,,,b</text>
+  </g>
 </svg>
