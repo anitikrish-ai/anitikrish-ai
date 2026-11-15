@@ -4,19 +4,12 @@
   "username": "anitikrish-ai",
   "source_url": "https://github.com/users/anitikrish-ai/contributions",
   "source_note": "Scraped public HTML contribution calendar (about the last year); not the authenticated GraphQL API.",
-  "fetched_at": "2026-11-14T10:29:01Z",
-  "range_from": "2025-11-09",
-  "range_to": "2026-11-14",
+  "fetched_at": "2026-11-15T10:56:08Z",
+  "range_from": "2025-11-16",
+  "range_to": "2026-11-15",
   "total_reported": 561,
   "counts_available": true,
   "days": [
-    {"date":"2025-11-09","level":0,"count":0},
-    {"date":"2025-11-10","level":0,"count":0},
-    {"date":"2025-11-11","level":0,"count":0},
-    {"date":"2025-11-12","level":0,"count":0},
-    {"date":"2025-11-13","level":0,"count":0},
-    {"date":"2025-11-14","level":0,"count":0},
-    {"date":"2025-11-15","level":0,"count":0},
     {"date":"2025-11-16","level":0,"count":0},
     {"date":"2025-11-17","level":0,"count":0},
     {"date":"2025-11-18","level":0,"count":0},
@@ -380,6 +373,7 @@
     {"date":"2026-11-11","level":0,"count":0},
     {"date":"2026-11-12","level":1,"count":4},
     {"date":"2026-11-13","level":1,"count":1},
-    {"date":"2026-11-14","level":1,"count":3}
+    {"date":"2026-11-14","level":1,"count":3},
+    {"date":"2026-11-15","level":0,"count":0}
   ]
 }
